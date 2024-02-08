@@ -1,0 +1,8 @@
+-T "C:\WorkSpace\Vitek_A21B0316P\Vitek_A21B0316P\Debug\Vitek_A21B0316P_Debug_auto.gsi"
+-T "C:\WorkSpace\Vitek_A21B0316P\Vitek_A21B0316P\Debug\Vitek_A21B0316P_input.tmp" 
+-L "c:\program files (x86)\renesas\hew\tools\kpit cummins\gnuh8-elf\v11.02\h8300-elf\lib\gcc\h8300-elf\4.5-GNUH8_v11.02\h8300s"
+-L "C:\WorkSpace\Vitek_A21B0316P\Vitek_A21B0316P\Debug"
+-Map "C:\WorkSpace\Vitek_A21B0316P\Vitek_A21B0316P\Debug\Vitek_A21B0316P.map"
+-( -l "gcc" -l "Vitek_A21B0316P" -)
+-o "C:\WorkSpace\Vitek_A21B0316P\Vitek_A21B0316P\Debug\Vitek_A21B0316P.x"
+-e _start
